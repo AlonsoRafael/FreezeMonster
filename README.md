@@ -2,7 +2,7 @@
 
 **FreezeMonster** é um jogo de ação e estratégia onde você controla Woody, um herói que deve congelar todos os monstros enquanto evita ser atingido pelas gosmas que eles soltam. O objetivo é navegar pelo cenário, disparar raios congelantes e sobreviver ao ataque das gosmas até conseguir congelar todos os monstros.
 
-![imagemFreeze](https://github.com/user-attachments/assets/b59b6e64-e08f-406a-8e7b-d8a1499df52d)
+![imagemFreeze](https://github.com/user-attachments/assets/952e95f1-5e52-4710-94a0-6628f14eb854)
 
 ## Regras do Jogo
 
@@ -26,14 +26,18 @@ O jogo foi implementado utilizando o framework **Arcade-Games-Sprite-Based**, qu
 
 2. Configuração do ambiente
 
-Instalar o Java.
-Após instalar o JDK, certifique-se de que o Java está corretamente configurado no PATH.
-Para verificar, execute o seguinte comando no terminal:
-java -version
-Se o comando retornar a versão do JDK instalada, o Java está configurado corretamente.
+   Instalar o Java.
+   
+   Após instalar o JDK, certifique-se de que o Java está corretamente configurado no PATH.
+   
+   Para verificar, execute o seguinte comando no terminal:
 
-3. Execute o arquivo principal do jogo:
+   java --version
+
+   Se o comando retornar a versão do JDK instalada, o Java está configurado corretamente.
+
+4. Execute o arquivo principal do jogo:
 
    java .\FreezeMonsters\src\bin\FreezeMonsters\FreezeMonstersGame.java
 
-4. Divirta-se jogando FreezeMonster!
+5. Divirta-se jogando FreezeMonster!
